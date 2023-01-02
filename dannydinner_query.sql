@@ -1,10 +1,10 @@
 /* Author   - Sonali Gupta
  Tool Used  - Microsoft SQL Server Management Studio
- Created On - Jan 2023 */
+ Created On - January 2023 */
 
     SELECT * FROM sales ;
-	SELECT * FROM menu ;
-	SELECT * FROM members ;
+    SELECT * FROM menu ;
+    SELECT * FROM members ;
 
 
 /* What is the total amount each customer spent at the restaurant? */
